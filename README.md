@@ -2,6 +2,8 @@ Hi there 👋
 
 I'm Abrar, I am a Senior DevOps Engineer, I write and code about All things DevOps. It is my passion to make the journey from POC to Production Agile!
 
+- 👯 I’m looking to collaborate on - Fine Tuning Building a web application, Infrastructure Automation, Deployment pipelines and All things Devops.
+
 
 ## 📌 Pinned Repositories
 
@@ -26,19 +28,32 @@ I'm Abrar, I am a Senior DevOps Engineer, I write and code about All things DevO
 <br>
 <br>
 
-- 👯 I’m looking to collaborate on - Building web applications, Infrastructure Automation, Deployment pipelines and All things Devops.
+## 💼 Skills
 
-<!--
-**md4abrar/md4abrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• Jenkins 	 
+• Team City  
+• Octopus	
+• Kubernetes 
+• Docker	
+• Terraform	
+• Ansible	
+	
+<details>
+<summary>More Skills</summary>
+<br>
+  
+• AWS
+• Git
+• GitHub / SVN
+• Nginx
+• Linux / Windows
+• Sonar Qube
+• Nexus	
+• Postman
+• Apache tomcat / IIS
+• Python Scripting
+• Bash Scripting
+• New Relic
+• Networking
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br>
