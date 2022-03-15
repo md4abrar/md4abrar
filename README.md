@@ -30,30 +30,36 @@ I'm Abrar, I am a Senior DevOps Engineer, I write and code about All things DevO
 
 ## 💼 Skills
 
-• Jenkins 	 
-• Team City  
-• Octopus	
-• Kubernetes 
-• Docker	
-• Terraform	
-• Ansible	
+• Jenkins   • Team City   • Octopus   • Kubernetes   • Docker   • Terraform   • Ansible	
 	
 <details>
 <summary>More Skills</summary>
 <br>
   
 • AWS
+	
 • Git
+	
 • GitHub / SVN
+	
 • Nginx
+	
 • Linux / Windows
+	
 • Sonar Qube
+	
 • Nexus	
+	
 • Postman
+	
 • Apache tomcat / IIS
+	
 • Python Scripting
+	
 • Bash Scripting
+	
 • New Relic
+	
 • Networking
 
  <br>
