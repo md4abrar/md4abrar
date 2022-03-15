@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Abrar, I am a Senior DevOps Engineer, I write and code about All things DevOps. It is my passion to make the journey from POC to Production Agile!
+I'm Abrar, I am a Senior DevOps Engineer, I write and code about All things DevOps. It is my passion to make the journey from POC to Production, Agile!
 
 - 👯 I’m looking to collaborate on - Fine Tuning Building a web application, Infrastructure Automation, Deployment pipelines and All things Devops.
 
