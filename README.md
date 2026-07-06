@@ -23,6 +23,8 @@ I'm a **Senior DevOps Engineer** based in Bangalore with **10 years of experienc
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/-TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
 
 **Containers & Kubernetes**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -33,9 +35,10 @@ I'm a **Senior DevOps Engineer** based in Bangalore with **10 years of experienc
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-**Cloud**
+**Cloud and AI**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Naver](https://img.shields.io/badge/-Naver_Cloud_Platform-03C75A?style=flat-square&logo=naver&logoColor=white)
+![MCP](https://img.shields.io/badge/-Claude_MCP-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
 
 **Observability**
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
@@ -46,6 +49,7 @@ I'm a **Senior DevOps Engineer** based in Bangalore with **10 years of experienc
 **Languages & Scripting**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 **Source Control & Artifact Management**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
