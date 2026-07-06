@@ -10,7 +10,7 @@
 I'm a **Senior DevOps Engineer** based in Bangalore with **10 years of experience** building and scaling infrastructure across cloud platforms. My focus is on bridging the gap between development and operations — making the journey from POC to Production fast, reliable, and automated.
 
 - 🔭 Currently working on: **Platform Engineering & GitOps at scale**
-- 🌱 Exploring: **eBPF, OpenTelemetry, and AI/ML infrastructure**
+- 🌱 Exploring: **Platform Engineering and AI/ML infrastructure**
 - 👯 Open to collaborate on: Infrastructure Automation, CI/CD pipelines, and Kubernetes-native solutions
 - 📍 Based in: **Bangalore, India**
 
