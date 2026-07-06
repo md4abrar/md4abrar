@@ -35,11 +35,13 @@ I'm a **Senior DevOps Engineer** based in Bangalore with **10 years of experienc
 
 **Cloud**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Naver](https://img.shields.io/badge/-Naver_Cloud_Platform-03C75A?style=flat-square&logo=naver&logoColor=white)
 
 **Observability**
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![New Relic](https://img.shields.io/badge/-New_Relic-008C99?style=flat-square&logo=new-relic&logoColor=white)
+![OpsGenie](https://img.shields.io/badge/-OpsGenie-172B4D?style=flat-square&logo=opsgenie&logoColor=white)
 
 **Languages & Scripting**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
